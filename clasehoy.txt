@@ -1,0 +1,2 @@
+en la clase de hoy subimos un repositorio a github
+un sistema de control de versiones es donde podemos ver el historial de cambios y configuraciones  de un sistema o aplicacion.
